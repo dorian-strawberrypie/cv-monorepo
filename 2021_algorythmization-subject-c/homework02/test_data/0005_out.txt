@@ -1,0 +1,9 @@
+Pozice a soustava:
+a
+^
+0
+^
+110
+  ^
+z
+^

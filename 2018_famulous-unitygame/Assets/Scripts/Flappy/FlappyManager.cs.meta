@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 32ef340532a25f04bb23774b83cf1746
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ObstacleGM0Flappy: {fileID: 8321955826897423508, guid: 3d0d91f63fa87a340b517d5d740e478f,
+      type: 3}
+  - ObstacleGM4Cross: {fileID: 2463960658886293733, guid: f64880ea1b78bfe4195e09e0aefba98c,
+      type: 3}
+  - ObstacleGM2Cross: {fileID: 2463960658886293733, guid: f64880ea1b78bfe4195e09e0aefba98c,
+      type: 3}
+  - ObstacleGM1Snow: {fileID: 7127312987689406806, guid: e4d7449c6fbebe04ab0e3edec1a4818c,
+      type: 3}
+  - ObstacleGM3Head: {fileID: 2479852920232408410, guid: c47cf9aada29ca84eb3c77fbc7f319fc,
+      type: 3}
+  - ObstacleBG: {fileID: 3144546164837339099, guid: 48b7940426ab9d245bcbf165dbad1338,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

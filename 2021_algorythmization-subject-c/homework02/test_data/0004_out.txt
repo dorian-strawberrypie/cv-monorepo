@@ -1,0 +1,4 @@
+Pozice a soustava:
+0
+^
+Nespravny vstup.
