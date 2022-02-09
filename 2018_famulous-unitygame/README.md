@@ -1,6 +1,7 @@
-![alt text](http://url/to/img.png) Fameulous!
+![alt text](https://raw.githubusercontent.com/dorian-strawberrypie/cv-monorepo/main/2018_famulous-unitygame/icon.jpg) Fameulous!
 
-![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/dorian-strawberrypie/cv-monorepo/blob/main/2018_famulous-unitygame/feature_banner.png)
 
 Description (copied from now non-existent store listing):
 
