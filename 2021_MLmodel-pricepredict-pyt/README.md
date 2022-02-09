@@ -1,5 +1,10 @@
-Program that uses OLS with SGD\
+Assignment:
 
+"
+Vaším úkolem je naimplementovat modul, který implementuje hledání vah pomocí OLS s SGD a pro nová data predikuje výstupní hodnoty. Modul následně otestujte pomocí unit testů a použijte na hledání modelu pro zadaná data (boston.csv, popis dat https://scikit-learn.org/stable/datasets/index.html#boston-dataset) v jupyter notebooku. Data načtěte pomocí pandas, poté najděte koeficienty na základě 80% náhodných vzorků. Zbylých 20% vzorků použijte na testování modelu, tj. spočtěte jak se liší Vaše predikce a naměřené hodnoty. Kromě toho implementujte několik visualizací
+"
+
+Ouput:
 
 Repo contains:\
     -Pytest\
