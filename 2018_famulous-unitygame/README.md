@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/dorian-strawberrypie/cv-monorepo/main/2018_famulous-unitygame/icon.jpg =50x50) Fameulous!
+<img src="https://raw.githubusercontent.com/dorian-strawberrypie/cv-monorepo/main/2018_famulous-unitygame/icon.jpg" width="25" height="25" /> Fameulous!
 
 
 ![alt text](https://github.com/dorian-strawberrypie/cv-monorepo/blob/main/2018_famulous-unitygame/feature_banner.png)
