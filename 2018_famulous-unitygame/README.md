@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/dorian-strawberrypie/cv-monorepo/main/2018_famulous-unitygame/icon.jpg" width="25" height="25" /> Fameulous!
 
+Unity game attempt, created by me and a few willing graphics student friends.
 
 Description (copied from now non-existent store listing):
 
