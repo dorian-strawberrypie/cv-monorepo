@@ -14,3 +14,5 @@ fictional company's problems, find an agreeable solution with it's representativ
      -prep for consultations, make consultation records\
      -have meetings to analyze our client's risks, needs.., estimate money, time..\
 
+
+All output is on our [Project drive](URL=https://drive.google.com/drive/u/1/folders/1JMW7X5ge1j9NGsz1zEmT6T3FunH-iISY)
