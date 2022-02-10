@@ -5,3 +5,6 @@ Lang: C
 
 
 Assignments in README of each directory
+
+
+Solo projects
