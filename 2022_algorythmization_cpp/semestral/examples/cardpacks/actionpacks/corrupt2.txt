@@ -1,0 +1,5 @@
+count 7;
+name svih;
+effect buff;
+stamina -5;
+staminaGain 3;

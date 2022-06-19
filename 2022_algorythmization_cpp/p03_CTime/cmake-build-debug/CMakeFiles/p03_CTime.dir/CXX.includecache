@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dorian_ubuntu/Documents/PA2/p03_CTime/main.cpp
+cstdio
+-
+cstdlib
+-
+ctime
+-
+cassert
+-
+iostream
+-
+iomanip
+-
+string
+-
+sstream
+-
+stdexcept
+-
+

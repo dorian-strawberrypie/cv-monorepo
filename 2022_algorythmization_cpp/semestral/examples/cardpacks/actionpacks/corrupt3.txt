@@ -1,0 +1,5 @@
+count 7;
+name svih;
+effect attack;
+target enemy;
+stamina -5;

@@ -1,0 +1,5 @@
+count 7;
+name svih;
+effect bLuff;
+target self;
+stamina -5;

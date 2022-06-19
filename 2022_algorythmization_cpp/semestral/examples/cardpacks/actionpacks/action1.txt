@@ -1,0 +1,52 @@
+count 1;
+name kamehameha;
+effect buff;
+target self;
+health -5;
+mana -20;
+effect attack;
+target enemy;
+damage 50;
+
+count 5;
+name svih;
+effect buff;
+target self;
+stamina -5;
+effect attack;
+target enemy;
+damage 5;
+
+count 2;
+name pivo;
+effect buff;
+target self;
+health 3;
+gold -5;
+
+count 1;
+name bohac;
+effect buff;
+target self;
+goldGain 5;
+
+count 3;
+name brigada;
+effect buff;
+target self;
+stamina -7;
+gold 10;
+
+count 2;
+name nakup;
+effect buff;
+target self;
+gold -5;
+shield 7;
+
+count 3;
+name odpocinek;
+effect buff;
+target self;
+stamina 7;
+

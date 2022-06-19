@@ -1,0 +1,1 @@
+Cannot create directory \\wsl$\Ubuntu-20.04\wsl.localhost\Ubuntu-20.04\home\dorian_ubuntu\Documents\PA2\p06b_dataTypePtr\cmake-build-debug

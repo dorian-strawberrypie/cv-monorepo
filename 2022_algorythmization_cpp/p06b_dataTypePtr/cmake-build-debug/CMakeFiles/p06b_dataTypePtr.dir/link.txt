@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p06b_dataTypePtr.dir/main.cpp.o  -o p06b_dataTypePtr 

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dorian_ubuntu/Documents/PA2/p05_store/main.cpp
+cstring
+-
+cstdlib
+-
+cstdio
+-
+cassert
+-
+iostream
+-
+iomanip
+-
+string
+-
+vector
+-
+map
+-
+list
+-
+set
+-
+queue
+-
+stack
+-
+deque
+-
+algorithm
+-
+unordered_map
+-
+unordered_set
+-
+memory
+-
+

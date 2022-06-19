@@ -1,0 +1,69 @@
+count 1;
+name superpunch;
+effect buff;
+target self;
+health -5;
+stamina -20;
+effect attack;
+target enemy;
+damage 50;
+
+count 5;
+name slash;
+effect buff;
+target self;
+stamina -5;
+effect attack;
+target enemy;
+damage 5;
+criticalChance 70;
+criticalDamage 10;
+
+count 2;
+name bread;
+effect buff;
+target self;
+health 5;
+
+count 1;
+name lucky;
+effect buff;
+target self;
+gold 5;
+
+count 3;
+name passiveincome;
+effect buff;
+target self;
+goldGain 2;
+
+count 2;
+name findAshield;
+effect buff;
+target self;
+shield 5;
+
+count 3;
+name rest;
+effect buff;
+target self;
+stamina 7;
+
+count 6;
+name magicAttack;
+effect buff;
+target self;
+mana -5;
+effect attack;
+target enemy;
+damage 8;
+ignoresShield 1;
+
+count 6;
+name moneybagPunch;
+effect buff;
+target self;
+gold -4;
+effect attack;
+target enemy;
+damage 7;

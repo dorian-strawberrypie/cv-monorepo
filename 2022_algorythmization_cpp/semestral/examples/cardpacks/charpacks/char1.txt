@@ -1,0 +1,26 @@
+name Magician;
+maxHealth 30;
+stamina 5;
+staminaGain 1;
+mana 5;
+manaGain 2;
+gold 5;
+goldGain 0;
+
+name BusinessMan;
+maxHealth 35;
+stamina 5;
+staminaGain 2;
+mana 5;
+manaGain 2;
+gold 2;
+goldGain 2;
+
+name Knight;
+maxHealth 40;
+stamina 10;
+staminaGain 3;
+mana 5;
+manaGain 1;
+gold 10;
+goldGain 0;

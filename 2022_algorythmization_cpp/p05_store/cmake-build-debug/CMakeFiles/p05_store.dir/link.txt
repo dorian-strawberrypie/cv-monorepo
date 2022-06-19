@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p05_store.dir/main.cpp.o  -o p05_store 

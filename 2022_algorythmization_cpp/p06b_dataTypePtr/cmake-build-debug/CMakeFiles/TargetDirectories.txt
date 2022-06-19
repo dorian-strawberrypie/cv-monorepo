@@ -1,0 +1,3 @@
+/home/dorian_ubuntu/Documents/PA2/p06b_dataTypePtr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dorian_ubuntu/Documents/PA2/p06b_dataTypePtr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dorian_ubuntu/Documents/PA2/p06b_dataTypePtr/cmake-build-debug/CMakeFiles/p06b_dataTypePtr.dir

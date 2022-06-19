@@ -1,0 +1,8 @@
+name Kouzelnik;
+maxHealth 15;
+stamina 5;
+staminaGain 1;
+mana 10;
+manaGain 3;
+gold 5;
+goldGain 0;
