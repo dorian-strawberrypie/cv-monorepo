@@ -5,7 +5,7 @@ __My CV in markdown:__ [LINK](https://dorian-strawberrypie.github.io/markdown-cv
 
 __Repo projects:__
 - [Fameulous](/2018_famulous-unitygame), `Unity game`, start 2018
-- [C++ algorythmization & OOP](https://gitlab.fit.cvut.cz/BI-PA2/B212/BI/charbjak/tree/master) `C++`, current subject - not in this repo yet
+- [C++ algorythmization & OOP](/2022_algorythmization_cpp) `C++`, current subject - not in this repo yet
 - [Prediction ML model](/2021_MLmodel-pricepredict-pyt), `Python`, start 2021
   - Ordinary least squares regression model + scholastic gradient descent
   - using only pandas and numpy (no ML library)
